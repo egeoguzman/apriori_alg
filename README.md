@@ -215,27 +215,6 @@ the counting process with the reduce. The receipt list looks like this:
 You need to count each element’s occurrence rates from that receipt list. But be careful, one entry may
 belong to a lot of subset elements.
 
-**Example:**
-
-As you can see an entry may contain more than one element. So, you need to increment the occurrence of
-every possible element that may reside in a single entry. When you run your reducer on the provided
-example you should find the following occurrence rates:
-
-
-Good Luck.
-
-**Important Points:**
-
-```
- Similarity check will be applied to your scripts. Don’t cheat, you’ll get a zero if you do.
- Write a generic code. Your code must be working on different receipt lists.
- Don’t miss the deadline.
-```
-**References:**
-
-[1]:https://www.wikizeroo.org/index.php?q=aHR0cHM6Ly9lbi53aWtpcGVkaWEub3JnL3dpa2kvQXByaW9yaV9hbGdvcml0aG
-
-[2]: https://docs.python.org/3/library/pickle.html
 
 
 
